@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-Z5ovbbf)
 
 # Jantar Dos Filosofos
-Trabalho de sincronização sobre o problema do jantar dos filósofos para a matéria de programação paralela e multi-core.
+Trabalho de sincronização sobre o problema do jantar dos filósofos para a matéria de programação paralela e multi-core, utilizando semáforo mutex, fila de prioridade e interface gráfica.
 
 ## Descritivo do trabalho:
 ![diagrama](diagrama.png)
